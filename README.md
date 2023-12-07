@@ -1,6 +1,6 @@
 [![Docker Build](https://github.com/ai-dock/stable-diffusion-webui/actions/workflows/docker-build.yml/badge.svg)](https://github.com/ai-dock/stable-diffusion-webui/actions/workflows/docker-build.yml)
 
-# Stable Diffusion WebUI Docker Image
+# NOTHING TO SEE HERE, SORRY I AM NOT GOOD AT THIS STUFF
 
 Run [Automatic1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) in a docker container locally or in the cloud.
 
